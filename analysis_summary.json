@@ -1,0 +1,238 @@
+{
+  "analysis_metadata": {
+    "timestamp": "2025-08-26T19:41:11.051756",
+    "total_ai_ideas": 700,
+    "total_matches": 631,
+    "match_rate": 0.9014285714285715
+  },
+  "similarity_statistics": {
+    "statistics": {
+      "count": 650,
+      "mean": 0.8256383076923077,
+      "median": 0.83935,
+      "std": 0.11314871049828382,
+      "min": 0.0,
+      "max": 0.9466,
+      "q25": 0.8206249999999999,
+      "q75": 0.8597
+    },
+    "distribution": {
+      "0.0-0.3": 11,
+      "0.3-0.5": 0,
+      "0.5-0.7": 2,
+      "0.7-0.8": 401,
+      "0.8-1.0": 236
+    },
+    "percentiles": {
+      "10th": 0.79975,
+      "25th": 0.8206249999999999,
+      "50th": 0.83935,
+      "75th": 0.8597,
+      "90th": 0.87922,
+      "95th": 0.887155
+    }
+  },
+  "quality_correlation": {
+    "correlations": {
+      "pearson": {
+        "r": -0.09660521656486976,
+        "p_value": 0.014644828852375332
+      },
+      "spearman": {
+        "r": -0.08289011934270385,
+        "p_value": 0.03633211728833684
+      }
+    },
+    "acceptance_by_similarity": {
+      "high_similarity": {
+        "rate": 0.5770440251572327,
+        "count": 636
+      },
+      "medium_similarity": {
+        "rate": 0.0,
+        "count": 2
+      },
+      "low_similarity": {
+        "rate": 0.0,
+        "count": 0
+      }
+    },
+    "scores_by_similarity": {
+      "high_similarity": {
+        "mean_score": 5.162473794549266,
+        "count": 636
+      },
+      "medium_similarity": {
+        "mean_score": 5.95,
+        "count": 2
+      },
+      "low_similarity": {
+        "mean_score": 0.0,
+        "count": 0
+      }
+    },
+    "sample_size": 638
+  },
+  "performance_analysis": {
+    "conferences": {
+      "ICLR": {
+        "count": 650,
+        "mean_similarity": 0.8256383076923077,
+        "median_similarity": 0.83935,
+        "std_similarity": 0.11314871049828382,
+        "high_similarity_rate": 0.98
+      }
+    },
+    "domains": {
+      "neural architectures": {
+        "count": 200,
+        "mean_similarity": 0.8127025,
+        "median_similarity": 0.8363499999999999,
+        "std_similarity": 0.13540390923800788,
+        "high_similarity_rate": 0.965
+      },
+      "representation learning": {
+        "count": 200,
+        "mean_similarity": 0.8121959999999998,
+        "median_similarity": 0.83245,
+        "std_similarity": 0.13319224811825187,
+        "high_similarity_rate": 0.975
+      },
+      "deep learning": {
+        "count": 150,
+        "mean_similarity": 0.853314,
+        "median_similarity": 0.8564,
+        "std_similarity": 0.07615833473977468,
+        "high_similarity_rate": 0.9933333333333333
+      },
+      "optimization": {
+        "count": 100,
+        "mean_similarity": 0.8368809999999999,
+        "median_similarity": 0.8369,
+        "std_similarity": 0.026352646140110073,
+        "high_similarity_rate": 1.0
+      }
+    },
+    "models": {
+      "claude-3-7-sonnet-latest": {
+        "total_ideas": 100,
+        "valid_similarities": 100,
+        "mean_similarity": 0.8461659999999999,
+        "median_similarity": 0.8445,
+        "std_similarity": 0.021667842485577512,
+        "high_quality_count": 98,
+        "medium_quality_count": 2,
+        "low_quality_count": 0,
+        "quality_rate": 0.98
+      },
+      "deepseek-ai/DeepSeek-V3-0324": {
+        "total_ideas": 100,
+        "valid_similarities": 100,
+        "mean_similarity": 0.8178210000000001,
+        "median_similarity": 0.84265,
+        "std_similarity": 0.14672962030121037,
+        "high_quality_count": 92,
+        "medium_quality_count": 5,
+        "low_quality_count": 3,
+        "quality_rate": 0.92
+      },
+      "gemini-2.5-flash-preview-05-20": {
+        "total_ideas": 100,
+        "valid_similarities": 100,
+        "mean_similarity": 0.8542040000000002,
+        "median_similarity": 0.85795,
+        "std_similarity": 0.09086800274701938,
+        "high_quality_count": 99,
+        "medium_quality_count": 0,
+        "low_quality_count": 1,
+        "quality_rate": 0.99
+      },
+      "gemini-2.5-pro": {
+        "total_ideas": 50,
+        "valid_similarities": 50,
+        "mean_similarity": 0.8515339999999999,
+        "median_similarity": 0.8497,
+        "std_similarity": 0.030816663991935216,
+        "high_quality_count": 48,
+        "medium_quality_count": 2,
+        "low_quality_count": 0,
+        "quality_rate": 0.96
+      },
+      "gpt-4o": {
+        "total_ideas": 100,
+        "valid_similarities": 100,
+        "mean_similarity": 0.779239,
+        "median_similarity": 0.82535,
+        "std_similarity": 0.18472114659396716,
+        "high_quality_count": 73,
+        "medium_quality_count": 22,
+        "low_quality_count": 5,
+        "quality_rate": 0.73
+      },
+      "gpt-5": {
+        "total_ideas": 100,
+        "valid_similarities": 100,
+        "mean_similarity": 0.806571,
+        "median_similarity": 0.82065,
+        "std_similarity": 0.11860034433237357,
+        "high_quality_count": 80,
+        "medium_quality_count": 18,
+        "low_quality_count": 2,
+        "quality_rate": 0.8
+      },
+      "gpt-5-mini": {
+        "total_ideas": 100,
+        "valid_similarities": 100,
+        "mean_similarity": 0.8368809999999999,
+        "median_similarity": 0.8369,
+        "std_similarity": 0.026352646140110073,
+        "high_quality_count": 93,
+        "medium_quality_count": 7,
+        "low_quality_count": 0,
+        "quality_rate": 0.93
+      }
+    },
+    "creativity": {}
+  },
+  "key_findings": [
+    "\ud83c\udfc6 MODEL WINNER: gemini-2.5-flash-preview-05-20 outperforms other models with 0.854 mean similarity",
+    "\ud83d\udcca MODEL PERFORMANCE GAP: 9.6% difference between best (gemini-2.5-flash-preview-05-20) and worst (gpt-4o) performing models",
+    "\ud83c\udfaf gemini-2.5-flash-preview-05-20: 99.0% high-quality ideas, 0.854 avg similarity from 100 ideas",
+    "\ud83c\udfaf gemini-2.5-pro: 96.0% high-quality ideas, 0.852 avg similarity from 50 ideas",
+    "\ud83c\udfaf claude-3-7-sonnet-latest: 98.0% high-quality ideas, 0.846 avg similarity from 100 ideas",
+    "\ud83c\udfaf gpt-5-mini: 93.0% high-quality ideas, 0.837 avg similarity from 100 ideas",
+    "\ud83c\udfaf deepseek-ai/DeepSeek-V3-0324: 92.0% high-quality ideas, 0.818 avg similarity from 100 ideas",
+    "\ud83c\udfaf gpt-5: 80.0% high-quality ideas, 0.807 avg similarity from 100 ideas",
+    "\ud83c\udfaf gpt-4o: 73.0% high-quality ideas, 0.779 avg similarity from 100 ideas",
+    "\ud83e\udd16 AI IDEA QUALITY: Mean similarity 0.826 suggests AI ideas are moderately aligned with human research",
+    "\ud83d\udcca AI IDEA DISTRIBUTION: 83.3% high-quality (\u22650.8), 8.0% medium-quality (0.6-0.8), 1.6% low-quality (<0.6)",
+    "\ud83d\udd17 AI-HUMAN CORRELATION: weak negative correlation (r=-0.097) between AI similarity and human paper quality",
+    "\ud83c\udf93 HUMAN PAPER QUALITY: High-similarity AI ideas match human papers with 57.7% acceptance vs 0.0% for low-similarity",
+    "\ud83d\udccb OVERALL: 631/700 AI ideas (90.1%) found high-quality matches (\u22650.8 similarity) with human research"
+  ],
+  "recommendations": [
+    "\u2696\ufe0f BALANCED CHOICE: Models show similar performance (9.6% difference) - choose based on cost, speed, or other factors",
+    "\u2b50 HIGH-QUALITY MODELS: claude-3-7-sonnet-latest, deepseek-ai/DeepSeek-V3-0324, gemini-2.5-flash-preview-05-20, gemini-2.5-pro, gpt-4o, gpt-5, gpt-5-mini generate >20% high-quality ideas (similarity \u22650.8)",
+    "\ud83c\udfaf EXCELLENT: AI ideas highly aligned with human research - maintain current approach",
+    "\u26a0\ufe0f NEGATIVE CORRELATION: Higher similarity matches lower-quality human papers - AI may be too derivative, encourage more innovation"
+  ],
+  "generated_files": [
+    "multi_model_analysis/model_similarity_performance.pdf",
+    "multi_model_analysis/model_success_rate.pdf",
+    "multi_model_analysis/model_performance_ranking.pdf",
+    "multi_model_analysis/model_consistency.pdf",
+    "multi_model_analysis/model_quartile_analysis.pdf",
+    "multi_model_analysis/model_failure_rate.pdf",
+    "multi_model_analysis/ai_model_human_quality_matching.pdf",
+    "multi_model_analysis/model_domain_performance_heatmap.pdf",
+    "multi_model_analysis/domain_model_preference.pdf",
+    "multi_model_analysis/domain_difficulty_ranking.pdf",
+    "multi_model_analysis/model_efficiency_analysis.pdf",
+    "multi_model_analysis/quality_distribution_heatmap.pdf",
+    "multi_model_analysis/similarity_evolution_analysis.pdf",
+    "multi_model_analysis/model_consistency_variance.pdf",
+    "multi_model_analysis/model_dynamic_range.pdf",
+    "multi_model_analysis/model_performance_comparison.pdf",
+    "multi_model_analysis/detailed_analysis_report.txt"
+  ]
+}

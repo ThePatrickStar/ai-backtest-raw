@@ -1,0 +1,188 @@
+🤖 AI RESEARCH IDEA EVALUATION REPORT 📊
+============================================================
+Focus: LLM Model Comparison & AI vs Human Analysis
+============================================================
+
+📅 Analysis Date: 2025-08-26T19:41:11.051756
+📁 Data Source: 
+🤖 Total AI Ideas: 700
+✅ Valid Matches: 631
+📈 Match Rate: 90.14%
+
+🏆 EXECUTIVE SUMMARY: MODEL COMPARISON
+=============================================
+🥇 WINNER: gemini-2.5-flash-preview-05-20 (similarity: 0.854, quality rate: 99.0%)
+🥉 LOWEST: gpt-4o (similarity: 0.779, quality rate: 73.0%)
+📊 PERFORMANCE GAP: 9.6%
+💬 RECOMMENDATION: ⚖️ BALANCED - Choose gemini-2.5-flash-preview-05-20 over gpt-4o
+
+🤖 AI VS HUMAN COMPARISON SUMMARY
+======================================
+📈 OVERALL AI PERFORMANCE: EXCELLENT (mean similarity: 0.826)
+⭐ HIGH-QUALITY AI IDEAS: 83.3% achieved ≥0.8 similarity
+🎓 HUMAN PAPER QUALITY: High-similarity AI ideas match 57.7% accepted papers
+
+🔄 DEDUPLICATION ANALYSIS
+==============================
+Detection Method: Text-Based Exact Matching
+Note: Duplicates are detected within each model's results only.
+This preserves fair model comparison while removing redundant ideas.
+
+📊 claude-3-7-sonnet-latest:
+   • Original ideas: 100
+   • Unique ideas: 100
+   • Duplicates removed: 0
+   • Duplicate rate: 0.0%
+   • Assessment: 🎨 Highly Creative
+
+📊 deepseek-ai/DeepSeek-V3-0324:
+   • Original ideas: 100
+   • Unique ideas: 100
+   • Duplicates removed: 0
+   • Duplicate rate: 0.0%
+   • Assessment: 🎨 Highly Creative
+
+📊 gemini-2.5-flash-preview-05-20:
+   • Original ideas: 100
+   • Unique ideas: 100
+   • Duplicates removed: 0
+   • Duplicate rate: 0.0%
+   • Assessment: 🎨 Highly Creative
+
+📊 gemini-2.5-pro:
+   • Original ideas: 100
+   • Unique ideas: 50
+   • Duplicates removed: 50
+   • Duplicate rate: 50.0%
+   • Assessment: 🔁 High Repetition
+
+📊 gpt-4o:
+   • Original ideas: 100
+   • Unique ideas: 100
+   • Duplicates removed: 0
+   • Duplicate rate: 0.0%
+   • Assessment: 🎨 Highly Creative
+
+📊 gpt-5:
+   • Original ideas: 100
+   • Unique ideas: 100
+   • Duplicates removed: 0
+   • Duplicate rate: 0.0%
+   • Assessment: 🎨 Highly Creative
+
+📊 gpt-5-mini:
+   • Original ideas: 100
+   • Unique ideas: 100
+   • Duplicates removed: 0
+   • Duplicate rate: 0.0%
+   • Assessment: 🎨 Highly Creative
+
+📋 OVERALL DEDUPLICATION:
+   • Total original: 700
+   • Total unique: 650
+   • Total duplicates: 50
+   • Overall duplicate rate: 7.1%
+
+🔍 DETAILED FINDINGS
+-------------------------
+ 1. 🏆 MODEL WINNER: gemini-2.5-flash-preview-05-20 outperforms other models with 0.854 mean similarity
+ 2. 📊 MODEL PERFORMANCE GAP: 9.6% difference between best (gemini-2.5-flash-preview-05-20) and worst (gpt-4o) performing models
+ 3. 🎯 gemini-2.5-flash-preview-05-20: 99.0% high-quality ideas, 0.854 avg similarity from 100 ideas
+ 4. 🎯 gemini-2.5-pro: 96.0% high-quality ideas, 0.852 avg similarity from 50 ideas
+ 5. 🎯 claude-3-7-sonnet-latest: 98.0% high-quality ideas, 0.846 avg similarity from 100 ideas
+ 6. 🎯 gpt-5-mini: 93.0% high-quality ideas, 0.837 avg similarity from 100 ideas
+ 7. 🎯 deepseek-ai/DeepSeek-V3-0324: 92.0% high-quality ideas, 0.818 avg similarity from 100 ideas
+ 8. 🎯 gpt-5: 80.0% high-quality ideas, 0.807 avg similarity from 100 ideas
+ 9. 🎯 gpt-4o: 73.0% high-quality ideas, 0.779 avg similarity from 100 ideas
+10. 🤖 AI IDEA QUALITY: Mean similarity 0.826 suggests AI ideas are moderately aligned with human research
+11. 📊 AI IDEA DISTRIBUTION: 83.3% high-quality (≥0.8), 8.0% medium-quality (0.6-0.8), 1.6% low-quality (<0.6)
+12. 🔗 AI-HUMAN CORRELATION: weak negative correlation (r=-0.097) between AI similarity and human paper quality
+13. 🎓 HUMAN PAPER QUALITY: High-similarity AI ideas match human papers with 57.7% acceptance vs 0.0% for low-similarity
+14. 📋 OVERALL: 631/700 AI ideas (90.1%) found high-quality matches (≥0.8 similarity) with human research
+
+💡 ACTIONABLE RECOMMENDATIONS
+--------------------------------
+ 1. ⚖️ BALANCED CHOICE: Models show similar performance (9.6% difference) - choose based on cost, speed, or other factors
+ 2. ⭐ HIGH-QUALITY MODELS: claude-3-7-sonnet-latest, deepseek-ai/DeepSeek-V3-0324, gemini-2.5-flash-preview-05-20, gemini-2.5-pro, gpt-4o, gpt-5, gpt-5-mini generate >20% high-quality ideas (similarity ≥0.8)
+ 3. 🎯 EXCELLENT: AI ideas highly aligned with human research - maintain current approach
+ 4. ⚠️ NEGATIVE CORRELATION: Higher similarity matches lower-quality human papers - AI may be too derivative, encourage more innovation
+
+DETAILED SIMILARITY STATISTICS:
+-----------------------------------
+Count: 650
+Mean: 0.8256
+Median: 0.8394
+Std Dev: 0.1131
+Min: 0.0000
+Max: 0.9466
+Q25: 0.8206
+Q75: 0.8597
+
+MODEL PERFORMANCE BREAKDOWN:
+------------------------------
+
+claude-3-7-sonnet-latest:
+  Total Ideas: 100
+  Mean Similarity: 0.8462
+  High Quality Rate: 98.00%
+
+deepseek-ai/DeepSeek-V3-0324:
+  Total Ideas: 100
+  Mean Similarity: 0.8178
+  High Quality Rate: 92.00%
+
+gemini-2.5-flash-preview-05-20:
+  Total Ideas: 100
+  Mean Similarity: 0.8542
+  High Quality Rate: 99.00%
+
+gemini-2.5-pro:
+  Total Ideas: 50
+  Mean Similarity: 0.8515
+  High Quality Rate: 96.00%
+
+gpt-4o:
+  Total Ideas: 100
+  Mean Similarity: 0.7792
+  High Quality Rate: 73.00%
+
+gpt-5:
+  Total Ideas: 100
+  Mean Similarity: 0.8066
+  High Quality Rate: 80.00%
+
+gpt-5-mini:
+  Total Ideas: 100
+  Mean Similarity: 0.8369
+  High Quality Rate: 93.00%
+
+CONFERENCE PERFORMANCE:
+-------------------------
+
+ICLR:
+  Ideas: 650
+  Mean Similarity: 0.8256
+  High Similarity Rate: 98.00%
+
+DOMAIN PERFORMANCE:
+--------------------
+
+neural architectures:
+  Ideas: 200
+  Mean Similarity: 0.8127
+  High Similarity Rate: 96.50%
+
+representation learning:
+  Ideas: 200
+  Mean Similarity: 0.8122
+  High Similarity Rate: 97.50%
+
+deep learning:
+  Ideas: 150
+  Mean Similarity: 0.8533
+  High Similarity Rate: 99.33%
+
+optimization:
+  Ideas: 100
+  Mean Similarity: 0.8369
+  High Similarity Rate: 100.00%
